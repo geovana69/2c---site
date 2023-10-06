@@ -33,7 +33,7 @@
     display: flex;
     justify-content: left;    
     padding: -20%;
-   margin:  auto
+
     }
     
     .texto1{
@@ -81,7 +81,6 @@
     .pimentinha{
         padding: 15%;
         justify-content: left;
-        margin: -500px -900px -789px -08px;
         width: 18%;
     }
     
@@ -120,15 +119,12 @@
 
     .akat2{
         color: blueviolet;
-        margin: 100px 10px -100px 500px;
     }
 
     .foto24{
         width: 28% ;
-        margin: -8700px 300px 1500px 470px;
     }
 
     .bambu{
         width: 29%;
-        margin: -190px -300px 300px 1000px;;
     }
