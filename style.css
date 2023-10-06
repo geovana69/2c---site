@@ -106,29 +106,16 @@
 
     .semente{
     width:  25%;
-    padding: 15%;
-    position: relative;
-    margin: -1500px 400px 400px 670px;
-    justify-content: baseline ;
-    display: flex;
     }
   
     .suculentas{
         width:  23%;
-    padding: 15%;
-    position: relative;
-    margin: 600px -200px -100px 600px ;
-    justify-content: baseline ;
-    display: flex;
+   
     }
 
     .salcinha{
         width:  35%;
-        padding: 15%;
-        position: relative;
-        margin: -1090px -300px 300px 870px;
-        justify-content: baseline ;
-        display: flex;
+      
     }
 
     .akat2{
