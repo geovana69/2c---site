@@ -33,7 +33,7 @@
     display: flex;
     justify-content: left;    
     padding: -20%;
-
+   margin:  auto
     }
     
     .texto1{
@@ -50,11 +50,7 @@
     }
 
     .imagem_arvore{
-        padding: 15%;
-        position: relative;
-        margin: -190px -100px 1500px -130px;
-        justify-content: baseline ;
-        display: flex;
+        
         width: 25%
     }
 
@@ -69,7 +65,7 @@
     .akat{
         font-size: 30px;
         justify-content: center;
-       margin: -450px 00px -450px 90px;
+        margin: 950px -300px 40px -300px;
         color: rgb(126, 11, 235)
     }
     
