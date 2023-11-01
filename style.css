@@ -16,7 +16,7 @@
     }
     
     .cabeçalho_imagem{
-    width: 12%;
+    width: 22%;
     }
     
     .cabeçalho_titulo{
@@ -36,9 +36,11 @@
    margin:  auto
     }
     
-    .texto1{
-       font-size: 25px;
-    }
+  .Texto1{
+    font-size: 25px;
+    justify-content: left;
+    margin-left: auto;
+  }
 
     .texto2{
         font-size: 25px;
@@ -49,10 +51,6 @@
     color: blueviolet;
     }
 
-    .imagem_arvore{
-        
-        width: 25%
-    }
 
     .Titulo1{
         font-size: 25px;
@@ -65,20 +63,11 @@
     .akat{
         font-size: 30px;
         justify-content: center;
-        margin: 950px -300px 40px -300px;
+       
         color: rgb(126, 11, 235)
     }
     
-    .sla{
-        justify-content: center;
-        margin: 300px -100px 40px 10px;
-    }
 
-    .pimentinha{
-        padding: 15%;
-        justify-content: left;
-        width: 18%;
-    }
     
     .Texto3{
         
@@ -99,28 +88,21 @@
         font-size: 25px;
     }
 
-    .semente{
-    width:  25%;
-    }
-  
-    .suculentas{
-        width:  23%;
-   
+    .imagens{
+        justify-content:  space-around
+        width 
     }
 
-    .salcinha{
-        width:  35%;
-      
+    .fotos1{
+        width: 15%;
+        justify-content: center
     }
 
-    .akat2{
-        color: blueviolet;
+    .fotos2{
+        width: 5px
     }
 
-    .foto24{
-        width: 28% ;
-    }
-
-    .bambu{
-        width: 29%;
+    .footer1{
+        font-size: medium;
+        width: 70%;
     }
